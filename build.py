@@ -530,10 +530,12 @@ def home():
     ben = "".join(f'<li class="ben reveal">{icon(b["icon"], "ben__ic")}<h3>{esc(b["title"])}</h3><p>{esc(fmt(b["text"]))}</p></li>' for b in T["benefits"])
     steps = "".join(f'<li class="step reveal"><span class="step__n">{i}</span><h3>{esc(s["title"])}</h3><p>{esc(s["text"])}</p></li>' for i, s in enumerate(T["steps"], 1))
     popular = "".join(card(by_slug(s)) for s in pops)
-    hero_img = by_slug("antik")
     g_antik = next(a for a in G if a["product"] == "antik")
+    bg = g_antik["images"][18]  # «Антик» у частного дома: плитка крупно справа, газон слева — под текст
     body = f'''<section class="hero">
-  <div class="hero__bg" aria-hidden="true"></div>
+  <div class="hero__photo">{img(bg["src"], "Дорожка и площадка из плитки «Антик» у частного дома — работа наших клиентов", bg["w"], bg["h"], "100vw", lazy=False, widths=(960, 1600))}</div>
+  <div class="hero__overlay" aria-hidden="true"></div>
+  <a class="hero__credit" href="/gallery#antik">Плитка «Антик» — фото с объекта клиента {icon("arrow")}</a>
   <div class="wrap hero__in">
     <div class="hero__txt">
       <p class="eyebrow eyebrow--light">Производство в Краснокамске · доставка по Перми и краю</p>
@@ -549,11 +551,6 @@ def home():
         <li><b>{len(COLORS)} {plural(len(COLORS), "цвет", "цвета", "цветов")}</b><span>серый и цветные</span></li>
         <li><b>1 год</b><span>гарантии</span></li>
       </ul>
-    </div>
-    <div class="hero__pics" aria-hidden="false">
-      <figure class="hero__pic hero__pic--a">{img(g_antik["images"][4]["src"], "Дорожка из плитки «Антик» в нескольких цветах — работа наших клиентов", 1080, 1080, "(max-width: 900px) 60vw, 420px", lazy=False, widths=(480, 960))}</figure>
-      <figure class="hero__pic hero__pic--b">{img("/img/site/sklad", "Склад готовой продукции и машина с манипулятором в Краснокамске", 1440, 1080, "(max-width: 900px) 50vw, 340px", widths=(960, 1600))}<figcaption>Наш склад в Краснокамске</figcaption></figure>
-      <figure class="hero__pic hero__pic--c">{img(hero_img["images"][0]["src"], "Плитка «Антик»", hero_img["images"][0]["w"], hero_img["images"][0]["h"], "200px", widths=(480, 960))}</figure>
     </div>
   </div>
 </section>
@@ -846,6 +843,7 @@ def contacts_page():
   <div class="map" data-map="https://yandex.ru/map-widget/v1/?text={q}&amp;z=16">
     <button class="btn btn--dark" type="button" data-map-load>Показать на карте</button>
     <a class="map__link" href="https://yandex.ru/maps/?text={q}" target="_blank" rel="noopener">Открыть в Яндекс Картах</a>
+    <span class="map__cap">Фото: плитка «Антик» на объекте клиента</span>
   </div>
 </div></section>
 {cta_band("Оставьте заявку", "Перезвоним в рабочее время, ответим на вопросы и посчитаем заказ.")}'''
