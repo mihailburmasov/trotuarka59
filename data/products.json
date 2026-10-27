@@ -1,0 +1,1258 @@
+[
+ {
+  "id": 1,
+  "slug": "kaliforniya",
+  "name": "Калифорния",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/kaliforniya/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/3",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/4",
+    "w": 810,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/5",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "/img/products/kaliforniya/6",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/7",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/8",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya/9",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 2,
+  "slug": "kaliforniya-derevo",
+  "name": "Калифорния дерево",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/kaliforniya-derevo/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya-derevo/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya-derevo/3",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya-derevo/4",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya-derevo/5",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/kaliforniya-derevo/6",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 3,
+  "slug": "tuchka",
+  "name": "Тучка",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/tuchka/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/tuchka/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/tuchka/3",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "/img/products/tuchka/4",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "/img/products/tuchka/5",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 4,
+  "slug": "8-kirpichej",
+  "name": "8 кирпичей",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown",
+   "blue"
+  ],
+  "images": [
+   {
+    "src": "/img/products/8-kirpichej/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/8-kirpichej/2",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "/img/products/8-kirpichej/3",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/8-kirpichej/4",
+    "w": 1440,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 5,
+  "slug": "yalta",
+  "name": "Ялта",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/yalta/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 6,
+  "slug": "gotika",
+  "name": "Готика",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown",
+   "blue"
+  ],
+  "images": [
+   {
+    "src": "/img/products/gotika/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/gotika/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/gotika/3",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/gotika/4",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 7,
+  "slug": "cvetok",
+  "name": "Цветок",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/cvetok/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/cvetok/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/cvetok/3",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/cvetok/4",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/cvetok/5",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 8,
+  "slug": "parket",
+  "name": "Паркет",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/parket/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/parket/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/parket/3",
+    "w": 1920,
+    "h": 1080
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 9,
+  "slug": "galka",
+  "name": "Галька",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown",
+   "blue"
+  ],
+  "images": [
+   {
+    "src": "/img/products/galka/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka/3",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka/4",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka/5",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka/6",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 10,
+  "slug": "pautina",
+  "name": "Паутина",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/pautina/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 11,
+  "slug": "shagren-prostaya",
+  "name": "Шагрень простая",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/shagren-prostaya/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/shagren-prostaya/2",
+    "w": 1280,
+    "h": 720
+   },
+   {
+    "src": "/img/products/shagren-prostaya/3",
+    "w": 1280,
+    "h": 720
+   },
+   {
+    "src": "/img/products/shagren-prostaya/4",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 12,
+  "slug": "zvyozdochka",
+  "name": "Звёздочка",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/zvyozdochka/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/zvyozdochka/2",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 13,
+  "slug": "barokko",
+  "name": "Барокко",
+  "category": "tp",
+  "size": "300х300х30",
+  "unit": "m2",
+  "price": 950,
+  "priceColor": 1150,
+  "perM2": 11,
+  "perM2Text": "11 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/barokko/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/barokko/2",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 14,
+  "slug": "8-kirpichej-shagren-400h400h50",
+  "name": "8 Кирпичей шагрень 400х400х50",
+  "category": "tp",
+  "size": "400х400х50",
+  "unit": "m2",
+  "price": 1400,
+  "priceColor": 1600,
+  "perM2": 6,
+  "perM2Text": "6 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/8-kirpichej-shagren-400h400h50/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/8-kirpichej-shagren-400h400h50/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/8-kirpichej-shagren-400h400h50/3",
+    "w": 1920,
+    "h": 1080
+   },
+   {
+    "src": "/img/products/8-kirpichej-shagren-400h400h50/4",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 15,
+  "slug": "galka-400h400h50",
+  "name": "Галька 400х400х50",
+  "category": "tp",
+  "size": "400х400х50",
+  "unit": "m2",
+  "price": 1400,
+  "priceColor": 1600,
+  "perM2": 6,
+  "perM2Text": "6 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/galka-400h400h50/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka-400h400h50/2",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka-400h400h50/3",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka-400h400h50/4",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka-400h400h50/5",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/galka-400h400h50/6",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 16,
+  "slug": "galka-250h250h25",
+  "name": "Галька 250х250х25",
+  "category": "tp",
+  "size": "250х250х25",
+  "unit": "m2",
+  "price": 850,
+  "priceColor": 1050,
+  "perM2": 16,
+  "perM2Text": "16 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/galka-250h250h25/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 17,
+  "slug": "klever-krakovskij",
+  "name": "Клевер краковский",
+  "category": "tp",
+  "size": "290х290х40, 215х215х40",
+  "unit": "m2",
+  "price": 1400,
+  "priceColor": 1600,
+  "perM2": null,
+  "perM2Text": "12 + 12 шт. (большая + малая)",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/klever-krakovskij/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/klever-krakovskij/2",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/klever-krakovskij/3",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/klever-krakovskij/4",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/klever-krakovskij/5",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/klever-krakovskij/6",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/klever-krakovskij/7",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "/img/products/klever-krakovskij/8",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/klever-krakovskij/9",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 18,
+  "slug": "antik-shagren",
+  "name": "Антик шагрень",
+  "category": "tp",
+  "size": "200х200х45, 200х100х45, 100х100х45",
+  "unit": "m2",
+  "price": 1500,
+  "priceColor": 1700,
+  "perM2": null,
+  "perM2Text": "25 / 50 / 100 шт. (по размерам)",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/antik-shagren/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik-shagren/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik-shagren/3",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik-shagren/4",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/products/antik-shagren/5",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/products/antik-shagren/6",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik-shagren/7",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 19,
+  "slug": "antik",
+  "name": "Антик",
+  "category": "tp",
+  "size": "200х100х45",
+  "unit": "m2",
+  "price": 1500,
+  "priceColor": 1700,
+  "perM2": 50,
+  "perM2Text": "50 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/antik/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik/3",
+    "w": 1080,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik/4",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik/5",
+    "w": 1440,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/antik/6",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "/img/products/antik/7",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "/img/products/antik/8",
+    "w": 1081,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 20,
+  "slug": "volna-shagren",
+  "name": "Волна шагрень",
+  "category": "tp",
+  "size": "210х110х56",
+  "unit": "m2",
+  "price": 1600,
+  "priceColor": 1800,
+  "perM2": 30,
+  "perM2Text": "30 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/volna-shagren/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/volna-shagren/2",
+    "w": 960,
+    "h": 1280
+   },
+   {
+    "src": "/img/products/volna-shagren/3",
+    "w": 1280,
+    "h": 960
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 21,
+  "slug": "volna-zigzag",
+  "name": "Волна зигзаг",
+  "category": "tp",
+  "size": "260х130х56",
+  "unit": "m2",
+  "price": 1600,
+  "priceColor": 1800,
+  "perM2": 30,
+  "perM2Text": "30 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/volna-zigzag/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/volna-zigzag/2",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/3",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/4",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/5",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/6",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/7",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/volna-zigzag/8",
+    "w": 960,
+    "h": 1280
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 22,
+  "slug": "mostovaya",
+  "name": "Мостовая",
+  "category": "tp",
+  "size": "250х125х56",
+  "unit": "m2",
+  "price": 1600,
+  "priceColor": 1800,
+  "perM2": 32,
+  "perM2Text": "32 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/mostovaya/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/mostovaya/2",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "/img/products/mostovaya/3",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "/img/products/mostovaya/4",
+    "w": 1080,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 23,
+  "slug": "rakushka",
+  "name": "Ракушка",
+  "category": "tp",
+  "size": "235х235х40",
+  "unit": "m2",
+  "price": 1400,
+  "priceColor": 1600,
+  "perM2": 20,
+  "perM2Text": "20 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/rakushka/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/rakushka/2",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/products/rakushka/3",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/products/rakushka/4",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/rakushka/5",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/rakushka/6",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/rakushka/7",
+    "w": 1920,
+    "h": 1086
+   },
+   {
+    "src": "/img/products/rakushka/8",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "/img/products/rakushka/9",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "/img/products/rakushka/10",
+    "w": 1280,
+    "h": 723
+   },
+   {
+    "src": "/img/products/rakushka/11",
+    "w": 1280,
+    "h": 723
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 24,
+  "slug": "rokko-uzornoe",
+  "name": "Рокко узорное",
+  "category": "tp",
+  "size": "293х197х40",
+  "unit": "m2",
+  "price": 1400,
+  "priceColor": 1600,
+  "perM2": 28,
+  "perM2Text": "28 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/rokko-uzornoe/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 25,
+  "slug": "molotok",
+  "name": "Молоток",
+  "category": "tp",
+  "size": "225х135х56",
+  "unit": "m2",
+  "price": 1600,
+  "priceColor": 1800,
+  "perM2": 40,
+  "perM2Text": "40 шт.",
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/molotok/1",
+    "w": 429,
+    "h": 287
+   },
+   {
+    "src": "/img/products/molotok/2",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/molotok/3",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/molotok/4",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 26,
+  "slug": "bordyur-sadovyj",
+  "name": "Бордюр садовый",
+  "category": "b",
+  "size": "500х200х35",
+  "unit": "pcs",
+  "price": 190,
+  "priceColor": 210,
+  "perM2": null,
+  "perM2Text": null,
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/bordyur-sadovyj/1",
+    "w": 1920,
+    "h": 1440
+   },
+   {
+    "src": "/img/products/bordyur-sadovyj/2",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/products/bordyur-sadovyj/3",
+    "w": 428,
+    "h": 571
+   },
+   {
+    "src": "/img/products/bordyur-sadovyj/4",
+    "w": 1920,
+    "h": 1086
+   }
+  ],
+  "calc": "length",
+  "lengthMm": 500
+ },
+ {
+  "id": 27,
+  "slug": "kamen-kolotyj",
+  "name": "Камень колотый",
+  "category": "fp",
+  "size": "264х127",
+  "unit": "m2",
+  "price": 600,
+  "priceColor": 750,
+  "perM2": 32,
+  "perM2Text": "32 шт.",
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/kamen-kolotyj/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 28,
+  "slug": "zhelob-vodostochnyj",
+  "name": "Желоб водосточный",
+  "category": "b",
+  "size": "500х160х50",
+  "unit": "pcs",
+  "price": 280,
+  "priceColor": 300,
+  "perM2": null,
+  "perM2Text": null,
+  "colors": [
+   "grey"
+  ],
+  "images": [
+   {
+    "src": "/img/products/zhelob-vodostochnyj/1",
+    "w": 1920,
+    "h": 1440
+   }
+  ],
+  "calc": "length",
+  "lengthMm": 500
+ },
+ {
+  "id": 29,
+  "slug": "slanec",
+  "name": "Сланец",
+  "category": "fp",
+  "size": "480х190",
+  "unit": "m2",
+  "price": 1110,
+  "priceColor": 1260,
+  "perM2": null,
+  "perM2Text": null,
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/slanec/1",
+    "w": 433,
+    "h": 201
+   }
+  ],
+  "calc": "area"
+ },
+ {
+  "id": 30,
+  "slug": "bordyur-metrovyj",
+  "name": "Бордюр метровый",
+  "category": "b",
+  "size": "1000х210х75",
+  "unit": "pcs",
+  "price": 600,
+  "priceColor": 800,
+  "perM2": null,
+  "perM2Text": null,
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/bordyur-metrovyj/1",
+    "w": 200,
+    "h": 133
+   }
+  ],
+  "calc": "length",
+  "lengthMm": 1000
+ },
+ {
+  "id": 31,
+  "slug": "kozyrek-chetyryohskatnyj-uzornyj",
+  "name": "Козырек четырёхскатный узорный",
+  "category": "b",
+  "size": "450х450",
+  "unit": "pcs",
+  "price": 1200,
+  "priceColor": 1500,
+  "perM2": null,
+  "perM2Text": null,
+  "colors": [
+   "grey",
+   "black",
+   "yellow",
+   "red",
+   "brown"
+  ],
+  "images": [
+   {
+    "src": "/img/products/kozyrek-chetyryohskatnyj-uzornyj/1",
+    "w": 446,
+    "h": 336
+   }
+  ],
+  "calc": "qty",
+  "lengthMm": 450
+ }
+]

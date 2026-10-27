@@ -1,0 +1,237 @@
+[
+ {
+  "name": "Мостовая",
+  "product": "mostovaya",
+  "images": [
+   {
+    "src": "/img/gallery/mostovaya/1",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/mostovaya/2",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/mostovaya/3",
+    "w": 1440,
+    "h": 1080
+   }
+  ]
+ },
+ {
+  "name": "Антик",
+  "product": "antik",
+  "images": [
+   {
+    "src": "/img/gallery/antik/1",
+    "w": 810,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/2",
+    "w": 810,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/3",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/gallery/antik/4",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/gallery/antik/5",
+    "w": 1080,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/6",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/7",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/8",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/9",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/10",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/11",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/12",
+    "w": 864,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/13",
+    "w": 811,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/14",
+    "w": 487,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/15",
+    "w": 1280,
+    "h": 577
+   },
+   {
+    "src": "/img/gallery/antik/16",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/17",
+    "w": 1440,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/antik/18",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "src": "/img/gallery/antik/19",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "src": "/img/gallery/antik/20",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "src": "/img/gallery/antik/21",
+    "w": 1600,
+    "h": 900
+   },
+   {
+    "src": "/img/gallery/antik/22",
+    "w": 608,
+    "h": 1080
+   }
+  ]
+ },
+ {
+  "name": "Ракушка",
+  "product": "rakushka",
+  "images": [
+   {
+    "src": "/img/gallery/rakushka/1",
+    "w": 672,
+    "h": 380
+   },
+   {
+    "src": "/img/gallery/rakushka/2",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/rakushka/3",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/rakushka/4",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/rakushka/5",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/rakushka/6",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/rakushka/7",
+    "w": 1280,
+    "h": 723
+   },
+   {
+    "src": "/img/gallery/rakushka/8",
+    "w": 1280,
+    "h": 960
+   },
+   {
+    "src": "/img/gallery/rakushka/9",
+    "w": 1280,
+    "h": 960
+   }
+  ]
+ },
+ {
+  "name": "Клевер краковский",
+  "product": "klever-krakovskij",
+  "images": [
+   {
+    "src": "/img/gallery/klever-krakovskij/1",
+    "w": 1909,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/klever-krakovskij/2",
+    "w": 1280,
+    "h": 723
+   },
+   {
+    "src": "/img/gallery/klever-krakovskij/3",
+    "w": 1280,
+    "h": 723
+   }
+  ]
+ },
+ {
+  "name": "Камень ломаный",
+  "product": null,
+  "images": [
+   {
+    "src": "/img/gallery/kamen-lomanyj/1",
+    "w": 1280,
+    "h": 723
+   },
+   {
+    "src": "/img/gallery/kamen-lomanyj/2",
+    "w": 1280,
+    "h": 723
+   },
+   {
+    "src": "/img/gallery/kamen-lomanyj/3",
+    "w": 610,
+    "h": 1080
+   },
+   {
+    "src": "/img/gallery/kamen-lomanyj/4",
+    "w": 1280,
+    "h": 723
+   }
+  ]
+ }
+]
