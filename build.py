@@ -531,19 +531,17 @@ def home():
     steps = "".join(f'<li class="step reveal"><span class="step__n">{i}</span><h3>{esc(s["title"])}</h3><p>{esc(s["text"])}</p></li>' for i, s in enumerate(T["steps"], 1))
     popular = "".join(card(by_slug(s)) for s in pops)
     g_antik = next(a for a in G if a["product"] == "antik")
-    bg = g_antik["images"][18]  # «Антик» у частного дома: плитка крупно справа, газон слева — под текст
+    bg = g_antik["images"][18]  # «Антик» у частного дома: плитка крупно, зелёный газон — светлое фото под лёгкий экран
     body = f'''<section class="hero">
-  <div class="hero__photo">{img(bg["src"], "Дорожка и площадка из плитки «Антик» у частного дома — работа наших клиентов", bg["w"], bg["h"], "100vw", lazy=False, widths=(960, 1600))}</div>
-  <div class="hero__overlay" aria-hidden="true"></div>
-  <a class="hero__credit" href="/gallery#antik">Плитка «Антик» — фото с объекта клиента {icon("arrow")}</a>
+  <div class="hero__bg" aria-hidden="true"></div>
   <div class="wrap hero__in">
     <div class="hero__txt">
-      <p class="eyebrow eyebrow--light">Производство в Краснокамске · доставка по Перми и краю</p>
-      <h1 class="h1">Тротуарная плитка и бордюры <span>от производителя</span> в Перми</h1>
+      <p class="eyebrow">Производство в Краснокамске · доставка по Перми и краю</p>
+      <h1 class="h1">Тротуарная плитка и бордюры <span>от производителя в&nbsp;Перми</span></h1>
       <p class="hero__lead">Плитка для дорожек и дворов, фасадная плитка под камень, бордюры и водосточные желоба. Цены завода, склад готовой продукции, доставка манипулятором.</p>
       <div class="hero__btns">
         <a class="btn btn--accent btn--lg" href="/catalog">Смотреть каталог и цены</a>
-        <a class="btn btn--ghost btn--lg" href="#calc">Рассчитать количество</a>
+        <a class="btn btn--line btn--lg" href="#calc">Рассчитать количество</a>
       </div>
       <ul class="hero__facts">
         <li><b>от {FACTS["min_tp"]} ₽</b><span>за м² плитки</span></li>
@@ -551,6 +549,10 @@ def home():
         <li><b>{len(COLORS)} {plural(len(COLORS), "цвет", "цвета", "цветов")}</b><span>серый и цветные</span></li>
         <li><b>1 год</b><span>гарантии</span></li>
       </ul>
+    </div>
+    <div class="hero__photo">
+      {img(bg["src"], "Дорожка и площадка из плитки «Антик» у частного дома — работа наших клиентов", bg["w"], bg["h"], "(max-width: 900px) 100vw, 46vw", lazy=False, widths=(960, 1600))}
+      <a class="hero__credit" href="/gallery#antik">Плитка «Антик» — фото с объекта клиента {icon("arrow")}</a>
     </div>
   </div>
 </section>
