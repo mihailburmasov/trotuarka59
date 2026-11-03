@@ -530,12 +530,10 @@ def home():
     ben = "".join(f'<li class="ben reveal">{icon(b["icon"], "ben__ic")}<h3>{esc(b["title"])}</h3><p>{esc(fmt(b["text"]))}</p></li>' for b in T["benefits"])
     steps = "".join(f'<li class="step reveal"><span class="step__n">{i}</span><h3>{esc(s["title"])}</h3><p>{esc(s["text"])}</p></li>' for i, s in enumerate(T["steps"], 1))
     popular = "".join(card(by_slug(s)) for s in pops)
-    g_antik = next(a for a in G if a["product"] == "antik")
-    bg = g_antik["images"][18]  # «Антик» у частного дома: плитка крупно, зелёный газон — светлое фото под лёгкий экран
     body = f'''<section class="hero">
-  <div class="hero__bg" aria-hidden="true"></div>
+  <div class="hero__photo" aria-hidden="true">{img("/img/hero-bg", "", 1920, 1530, "100vw", lazy=False, widths=(960, 1600, 1920))}</div>
   <div class="wrap hero__in">
-    <div class="hero__txt">
+    <div class="hero__panel">
       <p class="eyebrow">Производство в Краснокамске · доставка по Перми и краю</p>
       <h1 class="h1">Тротуарная плитка и бордюры <span>от производителя в&nbsp;Перми</span></h1>
       <p class="hero__lead">Плитка для дорожек и дворов, фасадная плитка под камень, бордюры и водосточные желоба. Цены завода, склад готовой продукции, доставка манипулятором.</p>
@@ -549,10 +547,6 @@ def home():
         <li><b>{len(COLORS)} {plural(len(COLORS), "цвет", "цвета", "цветов")}</b><span>серый и цветные</span></li>
         <li><b>1 год</b><span>гарантии</span></li>
       </ul>
-    </div>
-    <div class="hero__photo">
-      {img(bg["src"], "Дорожка и площадка из плитки «Антик» у частного дома — работа наших клиентов", bg["w"], bg["h"], "(max-width: 900px) 100vw, 46vw", lazy=False, widths=(960, 1600))}
-      <a class="hero__credit" href="/gallery#antik">Плитка «Антик» — фото с объекта клиента {icon("arrow")}</a>
     </div>
   </div>
 </section>
